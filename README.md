@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Learning%20.....%20👨‍💻&width=1000&height=200)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Learning%20.....%20👩🏽‍💻&width=1000&height=200)](https://github.com/Akshay090/svg-banners)
 
 <h1 align="center">Howdy 👋, I'm Vanessa</h1>
 <h3 align="center">Passionate about data, technology, and digital health.</h3>
